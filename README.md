@@ -1,6 +1,6 @@
 # bayrak_quiz_uygulamasi
 
-A new Flutter project.
+I did code practice when I learning Flutter with @kasimadalan in this project.
 
 ## Getting Started
 
